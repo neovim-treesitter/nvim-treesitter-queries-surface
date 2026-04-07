@@ -1,8 +1,7 @@
 {
-  "min_version": null,
-  "max_version": null,
-  "location": null,
+  "semver": false,
   "lang": "surface",
-  "url": "https://github.com/connorlay/tree-sitter-surface",
-  "semver": false
+  "location": null,
+  "parser_version": "f4586b35ac8548667a9aaa4eae44456c1f43d032",
+  "url": "https://github.com/connorlay/tree-sitter-surface"
 }
